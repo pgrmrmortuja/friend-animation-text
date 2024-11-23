@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #343F4F;
+  background: #093b86;
 }
 .wrapper{
   display: flex;
@@ -33,7 +33,7 @@ body{
   font-weight: 500;
   position: relative;
   top: 0;
-  animation: slide 15s steps(5) infinite;
+  animation: slide 10s steps(5) infinite;
 }
 @keyframes slide {
   100%{
@@ -51,9 +51,9 @@ body{
   left: 0;
   height: 100%;
   width: 100%;
-  background: #343F4F;
+  background: #093b86;
   border-left: 2px solid rgb(26, 221, 26);
-  animation: typing 3s steps(10) infinite;
+  animation: typing 2s steps(10) infinite;
 }
 @keyframes typing {
   40%, 60%{

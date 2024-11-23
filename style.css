@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #093b86;
+  background: #465163;
 }
 .wrapper{
   display: flex;
@@ -51,7 +51,7 @@ body{
   left: 0;
   height: 100%;
   width: 100%;
-  background: #093b86;
+  background: #465163;
   border-left: 2px solid rgb(26, 221, 26);
   animation: typing 2s steps(10) infinite;
 }
